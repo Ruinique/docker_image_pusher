@@ -1,3 +1,2 @@
 nginx
-xhofe/alist-aria2
-xhofr/alist
+alist
